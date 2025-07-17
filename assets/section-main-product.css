@@ -229,6 +229,7 @@ product-info {
 .product__info-container .product__description,
 .product__info-container .icon-with-text {
   margin: 2.5rem 0;
+  background-color: red;
 }
 
 .product__text {
