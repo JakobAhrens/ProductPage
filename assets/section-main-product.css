@@ -240,11 +240,7 @@ product-info {
 
 .product__description {
   margin-bottom: 20px;
-  text-align: left;
-  font: normal normal medium 18px/22px Montserrat;
-  letter-spacing: 0px;
-  color: #000000;
-  opacity: 1;
+  font: medium 18px Montserrat;
 }
 
 .product__text {
@@ -262,11 +258,7 @@ a.product__text {
 }
 
 .product__title {
-  text-align: left;
-  font: normal normal 600 25px/30px Montserrat;
-  letter-spacing: 0px;
-  color: #000000;
-  opacity: 1;
+  font: 25px Montserrat;
   margin-bottom: 12px;
 }
 
