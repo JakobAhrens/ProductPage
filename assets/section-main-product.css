@@ -240,7 +240,7 @@ product-info {
 
 .product__description {
   margin-bottom: 20px;
-  font: medium 18px Montserrat;
+  font: normal normal medium 16px/19px Montserrat;
 }
 
 .product__text {
@@ -257,8 +257,7 @@ a.product__text {
   text-transform: uppercase;
 }
 
-h1.product__title {
-  font: 25px Montserrat;
+.product__title {
   margin-bottom: 12px;
 }
 
