@@ -258,10 +258,6 @@ a.product__text {
 }
 
 .product__title {
-  top: 305px;
-  left: 1079px;
-  width: 160px;
-  height: 30px;
   text-align: left;
   font: normal normal 600 25px/30px Montserrat;
   letter-spacing: 0px;
