@@ -1,1 +1,168 @@
-{"sections":{"main":{"type":"main-product","blocks":{"title":{"type":"title","settings":{}},"price":{"type":"price","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"dropdown","swatch_shape":"circle"}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true,"show_gift_card_recipient":true}},"description":{"type":"description","settings":{}},"share":{"type":"share","settings":{"share_label":"Share"}}},"block_order":["title","price","variant_picker","quantity_selector","buy_buttons","description","share"],"settings":{"enable_sticky_info":false,"color_scheme":"scheme-1","media_size":"large","constrain_to_viewport":false,"media_fit":"contain","gallery_layout":"stacked","mobile_thumbnails":"hide","media_position":"left","image_zoom":"lightbox","hide_variants":true,"enable_video_looping":false,"padding_top":16,"padding_bottom":0}},"related-products":{"type":"related-products","settings":{"heading":"Related products","heading_size":"h2","products_to_show":4,"columns_desktop":4,"columns_mobile":"2","color_scheme":"scheme-1","image_ratio":"square","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"padding_top":8,"padding_bottom":28}}},"order":["main","related-products"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown",
+            "swatch_shape": "circle"
+          }
+        },
+        "inventory_FdNjwc": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 10,
+            "show_inventory_quantity": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
+          }
+        },
+        "rating_MGzLwc": {
+          "type": "rating",
+          "settings": {}
+        },
+        "sku_QcLQUG": {
+          "type": "sku",
+          "settings": {
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "description",
+        "price",
+        "variant_picker",
+        "inventory_FdNjwc",
+        "buy_buttons",
+        "rating_MGzLwc",
+        "sku_QcLQUG"
+      ],
+      "settings": {
+        "enable_sticky_info": false,
+        "color_scheme": "scheme-1",
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "gallery_layout": "thumbnail_slider",
+        "mobile_thumbnails": "hide",
+        "media_position": "left",
+        "image_zoom": "none",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_EzU4zx": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_BAFcq9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bild7_d11c92ca-966c-4490-b7e3-484f625890f4.png",
+            "title": "100% Qualität",
+            "text": "<p>Dank weichem Silikon</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ajN8aU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bild7_d11c92ca-966c-4490-b7e3-484f625890f4.png",
+            "title": "100% Qualität",
+            "text": "<p>Dank weichem Silikon</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aGN3bc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/bild7_d11c92ca-966c-4490-b7e3-484f625890f4.png",
+            "title": "100% Qualität",
+            "text": "<p>Dank weichem Silikon</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_BAFcq9",
+        "column_ajN8aU",
+        "column_aGN3bc"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "button_label": "Schaltflächenbeschriftung",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "Related products",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 8,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn_EzU4zx",
+    "related-products"
+  ]
+}
